@@ -1,0 +1,6 @@
+D:\Tanya\VS_Gitgub_Projects\QA_Authomation-master\01SeleniumWebdriverBasics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Tanya\VS_Gitgub_Projects\QA_Authomation-master\01SeleniumWebdriverBasics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Tanya\VS_Gitgub_Projects\QA_Authomation-master\01SeleniumWebdriverBasics\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Tanya\VS_Gitgub_Projects\QA_Authomation-master\01SeleniumWebdriverBasics\ConsoleApplication1\obj\Debug\P01_BankAccountApp.csproj.CoreCompileInputs.cache
+D:\Tanya\VS_Gitgub_Projects\QA_Authomation-master\01SeleniumWebdriverBasics\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Tanya\VS_Gitgub_Projects\QA_Authomation-master\01SeleniumWebdriverBasics\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

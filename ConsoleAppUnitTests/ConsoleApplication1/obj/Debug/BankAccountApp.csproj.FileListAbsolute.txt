@@ -1,0 +1,7 @@
+D:\Tanya\!Demo\ConsoleAppUnitTests\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Tanya\!Demo\ConsoleAppUnitTests\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Tanya\!Demo\ConsoleAppUnitTests\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Tanya\!Demo\ConsoleAppUnitTests\ConsoleApplication1\obj\Debug\BankAccountApp.csprojAssemblyReference.cache
+D:\Tanya\!Demo\ConsoleAppUnitTests\ConsoleApplication1\obj\Debug\BankAccountApp.csproj.CoreCompileInputs.cache
+D:\Tanya\!Demo\ConsoleAppUnitTests\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Tanya\!Demo\ConsoleAppUnitTests\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
